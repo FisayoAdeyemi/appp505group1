@@ -4,6 +4,16 @@
 
 This document accompanies the submission of the predictive analytics project focusing on energy analysis of residential buildings in British Columbia (BC). The project leverages machine learning techniques to predict the Energy Utilization Index (EUI) to assist stakeholders in enhancing energy efficiency, complying with the Carbon Tax, and reducing costs.
 
+## Steps to Replicate results
+
+1. Open the Tablue Prep packaged flow titled "Team 1 - Predictive Analytics Flow"
+2. Change the output step to any desired local location on your laptop (e.g downloads or desktop) - after this step, you will have a local version of the file we used to train the model
+3. Note: We have uploaded the cleaned training data on Github already at [Online Github Repo](https://raw.githubusercontent.com/FisayoAdeyemi/appp505group1/main/EUI.csv)
+4. Access the project notebook at [Google Colab](https://colab.research.google.com/drive/1WWSN2qqrSPPaymx6dwAWJchS4nZk2SQY?usp=sharing). This notebook contains all the code and visualization pertinent to the predictive models developed during the study.
+5. Click "Run All" or use the shortcut CMD/Ctrl + F9 to run all cells
+6. Wait for about 3-5 minutes and the scroll down for resukts
+  
+
 ## Contents
 
 - `Predictive Analytics Report`: A detailed report on the analysis performed, including problem definition, data handling, and objectives.
@@ -26,6 +36,8 @@ The dataset used for this project is sourced from an Official Local Government E
 - Reporting Year
 
 Data has been anonymized to comply with privacy laws and ethical standards.
+
+
 
 ## Machine Learning Models
 
