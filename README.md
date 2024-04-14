@@ -37,6 +37,7 @@ Multiple models were developed and cross-validated, including:
 - Bagging
 - AdaBoost
 - Gradient Boosting
+- Deep Neural Network
 
 Gradient Boosting achieved the highest R2 score and the lowest RMSE, indicating its superior predictive accuracy among the tested models.
 
