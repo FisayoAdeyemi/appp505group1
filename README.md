@@ -8,7 +8,7 @@ This document accompanies the submission of the predictive analytics project foc
 
 1. Open the Tablue Prep packaged flow titled "Team 1 - Predictive Analytics Flow"
 2. Change the output step to any desired local location on your laptop (e.g downloads or desktop) - after this step, you will have a local version of the file we used to train the model
-3. Note: We have uploaded the cleaned training data on Github already at [Online Github Repo](https://raw.githubusercontent.com/FisayoAdeyemi/appp505group1/main/EUI.csv)
+3. Note: We have uploaded the cleaned training data on Github already at [Online Github Repo](https://raw.githubusercontent.com/FisayoAdeyemi/appp505group1/main/EUI.csv) and you do not necessarily need to carry out step 1 and 2.
 4. Access the project notebook at [Google Colab](https://colab.research.google.com/drive/1WWSN2qqrSPPaymx6dwAWJchS4nZk2SQY?usp=sharing). This notebook contains all the code and visualization pertinent to the predictive models developed during the study.
 5. Click "Run All" or use the shortcut CMD/Ctrl + F9 to run all cells
 6. Wait for about 3-5 minutes and the scroll down for resukts
