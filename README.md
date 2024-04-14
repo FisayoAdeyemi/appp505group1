@@ -18,6 +18,8 @@ This document accompanies the submission of the predictive analytics project foc
 
 - `Predictive Analytics Report`: A detailed report on the analysis performed, including problem definition, data handling, and objectives.
 - `Google Colab Notebook`: A computational notebook where all the data preprocessing, model training, and evaluations are performed.
+- `Tableau Prep Packaged Flow`: A Tableau Prep Packaged flow that helps you replicate all the steps to clean the original Data data.
+
 
 ## Google Colab Notebook
 
